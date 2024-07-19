@@ -8,3 +8,5 @@
 - Outlier
 - Variance, Standard Deviation
 - Correlation
+
+![](business%20math%20and%20statistics.gif)
